@@ -1,0 +1,54 @@
+{
+  "api": [
+    {
+      "name": "Iphone",
+      "price": "222",
+      "year": "2222",
+      "id": 7
+    },
+    {
+      "name": "xiomi",
+      "price": "12",
+      "year": "2003",
+      "id": 8
+    },
+    {
+      "name": "samsung",
+      "price": "155",
+      "year": "2008",
+      "id": 9
+    },
+    {
+      "name": "asus",
+      "price": "111",
+      "year": "2007",
+      "id": 10
+    },
+    {
+      "name": "VIVOBOOK",
+      "price": "112",
+      "year": "2006",
+      "id": 11
+    }
+  ],
+  "favorites": [
+    {
+      "name": "Iphone",
+      "price": "222",
+      "year": "2222",
+      "id": 7
+    },
+    {
+      "name": "xiomi",
+      "price": "12",
+      "year": "2003",
+      "id": 8
+    },
+    {
+      "name": "samsung",
+      "price": "155",
+      "year": "2007",
+      "id": 9
+    }
+  ]
+}
